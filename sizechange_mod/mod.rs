@@ -12,7 +12,7 @@
 #![allow(dead_code, non_snake_case, non_upper_case_globals, unused_assignments, unused_macros, unused_must_use, unused_mut, unused_parens, unused_unsafe, unused_variables)]
 
 
-//mod grow_command;
+
 //mod normal;
 //mod normal_plus;
 //mod trans;
@@ -21,7 +21,6 @@
 mod others_trans;
 
 pub fn install() {
-    //grow_command::install();
     //normal::install();
     //normal_plus::install();
     //trans::install();
